@@ -1,7 +1,7 @@
 ## Pre-prints
 
-(@) **B. Zacovic**, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. [Preprint arXiv:2511.07316v2](https://arxiv.org/abs/2511.07316) (2025).
-(@) **B. Zacovic**, B. Juliette, B. Jacob, Explorations of Matroid Complexes. [Preprint arxiv:2605.24695](http://arxiv.org/abs/2605.24695) (2026).
+(@) **B. Zacovic**, B. Betti, V. Borovik, B. Finkel, and B. Sturmfels, Graphical Scattering Equations. [arXiv:2511.07316v2](https://arxiv.org/abs/2511.07316) (2025).
+(@) **B. Zacovic**, B. Juliette, B. Jacob, Explorations of Matroid Complexes. [arxiv:2605.24695](http://arxiv.org/abs/2605.24695) (2026).
 
 ## Journal publications
 (@) **B. Zacovic**, J. Koefler, U. Oktem, S. Paranjape, and J. Trnka, “Uniqueness of MHV Gravity Amplitudes.” *Le Matematiche*, Vol. 80 No. 1 (2025) 
