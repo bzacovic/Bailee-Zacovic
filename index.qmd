@@ -13,7 +13,7 @@ about:
       href: ./assets/CV.pdf # Change this file to your CV (replace the file in the assets/ folder)
 ---
 
-Hi! My name is Bailee. I am a second-year Ph.D. student at the University of Michigan, Ann Arbor, working with Thomas Lam. 
+Hi! My name is Bailee. I am a third-year Ph.D. student at the University of Michigan, Ann Arbor, working with Thomas Lam. 
 
 I completed my bachelor's degree in Mathematics and Philosophy at the University of Notre Dame, and spent a year in the Mathematics Master's Program at the University of Bonn in Germany. 
 
